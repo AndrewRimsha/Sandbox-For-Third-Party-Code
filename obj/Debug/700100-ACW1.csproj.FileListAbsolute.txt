@@ -1,0 +1,10 @@
+D:\YandexDisk\my programs\700100-ACW1\bin\Debug\700100-ACW1.exe.config
+D:\YandexDisk\my programs\700100-ACW1\bin\Debug\700100-ACW1.exe
+D:\YandexDisk\my programs\700100-ACW1\bin\Debug\700100-ACW1.pdb
+D:\YandexDisk\my programs\700100-ACW1\obj\Debug\700100-ACW1.csproj.AssemblyReference.cache
+D:\YandexDisk\my programs\700100-ACW1\obj\Debug\_700100_ACW1.Properties.Resources.resources
+D:\YandexDisk\my programs\700100-ACW1\obj\Debug\_700100_ACW1.SandboxForm.resources
+D:\YandexDisk\my programs\700100-ACW1\obj\Debug\700100-ACW1.csproj.GenerateResource.cache
+D:\YandexDisk\my programs\700100-ACW1\obj\Debug\700100-ACW1.csproj.CoreCompileInputs.cache
+D:\YandexDisk\my programs\700100-ACW1\obj\Debug\700100-ACW1.exe
+D:\YandexDisk\my programs\700100-ACW1\obj\Debug\700100-ACW1.pdb
